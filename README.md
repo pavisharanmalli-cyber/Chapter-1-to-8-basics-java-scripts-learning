@@ -20,7 +20,15 @@ Playwright/
 │   ├── js_identifier_rules.js     - Comprehensive demo: valid identifiers, case sensitivity, Unicode, naming conventions (camelCase, PascalCase, snake_case, etc.)
 │   └── VS_Code_keyboard_shortcut_windows.md - VS Code keyboard shortcuts reference for Windows
 ├── Chapter_04_Javascript_concept_1/
-│   └── (upcoming JavaScript concept files)
+│   ├── 09_var_let_const.js        - var, let, const variable declaration and initialization
+│   ├── 10_functions.js            - Function definition and calling
+│   ├── 11_var_explained.js        - var keyword and function scope behavior
+│   ├── 12_let_peope_love.js       - let keyword and block scope behavior
+│   ├── 13_const_explained.js      - const keyword and immutability
+│   ├── 14_var_functionscope.js    - var function scope with global scope demo
+│   ├── 15_let_scope.js            - let block scope with global scope demo
+│   ├── 16_Hoisting.js             - Variable hoisting with var keyword
+│   └── 17_hoisting_fn.js          - Function hoisting behavior
 └── README.md
 ```
 
@@ -36,4 +44,4 @@ Introduction to JavaScript's `var` keyword, variable declaration, and reassignme
 Covers JavaScript identifier naming rules, naming conventions (camelCase, PascalCase, snake_case, SCREAMING_SNAKE_CASE, Hungarian notation), and comment syntax. Also includes a comprehensive identifier rules demo and a VS Code keyboard shortcuts reference for Windows.
 
 ### Chapter_04_Javascript_concept_1
-Upcoming chapter for advanced JavaScript concept files.
+Covers variable declaration keywords (`var`, `let`, `const`), function definitions, scope behavior (global, function, block), and hoisting concepts (variable hoisting and function hoisting).
