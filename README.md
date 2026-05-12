@@ -16,7 +16,11 @@ Playwright/
 ├── Chapter_03_identifier_literals/
 │   ├── 06_identifier_Rules.js    - Valid vs invalid JavaScript identifier rules
 │   ├── 07_identifier_Part2.js    - Naming conventions: camelCase, PascalCase, snake_case, etc.
-│   └── 08_comments.js            - Single-line and multi-line comments in JavaScript
+│   ├── 08_comments.js            - Single-line and multi-line comments in JavaScript
+│   ├── js_identifier_rules.js     - Comprehensive demo: valid identifiers, case sensitivity, Unicode, naming conventions (camelCase, PascalCase, snake_case, etc.)
+│   └── VS_Code_keyboard_shortcut_windows.md - VS Code keyboard shortcuts reference for Windows
+├── Chapter_04_Javascript_concept_1/
+│   └── (upcoming JavaScript concept files)
 └── README.md
 ```
 
@@ -29,4 +33,7 @@ Fundamental JavaScript concepts — logging output, variables, loops, functions,
 Introduction to JavaScript's `var` keyword, variable declaration, and reassignment behavior.
 
 ### Chapter_03_identifier_literals
-Covers JavaScript identifier naming rules, naming conventions (camelCase, PascalCase, snake_case, SCREAMING_SNAKE_CASE, Hungarian notation), and comment syntax.
+Covers JavaScript identifier naming rules, naming conventions (camelCase, PascalCase, snake_case, SCREAMING_SNAKE_CASE, Hungarian notation), and comment syntax. Also includes a comprehensive identifier rules demo and a VS Code keyboard shortcuts reference for Windows.
+
+### Chapter_04_Javascript_concept_1
+Upcoming chapter for advanced JavaScript concept files.
